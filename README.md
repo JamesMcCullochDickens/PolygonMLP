@@ -1,6 +1,6 @@
 # PolygonMLP
 
-This repository contains the code for predicting Polygon side length and area using a CNN architecture and an MLP. 
+This repository contains the code for predicting polygon side length and area using a CNN architecture and an MLP. 
 
 - CNN PolyPredictor is the CNN
 
