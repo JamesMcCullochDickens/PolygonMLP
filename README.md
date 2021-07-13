@@ -10,7 +10,7 @@ This repository contains the code for predicting polygon side length and area us
 
 - PolygonFactory.py generates the training and testing images, which are polygons of random radius, random number of sides from, and of a certain resolution
 
-- The testing images of resolutions 300/600 
+- The testing images are of resolutions 300/600 
 
 - TrainAndTest.py is the training and testing code for both models
 
