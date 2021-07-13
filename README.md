@@ -12,7 +12,7 @@ This repository contains the code for predicting polygon side length and area us
 
 - The testing images of resolutions 300/600 
 
-- Train and Test is the training and testing code for both models
+- TrainAndTest.py is the training and testing code for both models
 
 Here is a sample polygon of image resolution 300 x 300
 
