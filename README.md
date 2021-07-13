@@ -6,13 +6,16 @@ This repository contains the code for predicting polygon side length and area us
 
 - GenericDataloader.py is the pytorch dataloader that uses repeated iterators with skipping (See code)
 
+- TrainAndTest.py is the training and testing code for both models. This file has functions to generate random test data, but I have included
+zip files of large and small polygon datasets, of 500 images each.
+
 - MLPPolyPredictor.py is the MLP 
+
+- CacheDictUtils.py is a helper file to read the info of the written test files
 
 - PolygonFactory.py generates the training and testing images, which are polygons of random radius, random number of sides from, and of a certain resolution
 
 - The testing images are of resolutions 300/600 
-
-- TrainAndTest.py is the training and testing code for both models
 
 Here is a sample polygon of image resolution 300 x 300
 
