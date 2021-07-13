@@ -2,13 +2,13 @@
 
 This repository contains the code for predicting polygon side length and area using a CNN architecture and an MLP. 
 
-- CNN PolyPredictor is the CNN
+- CNNPolyPredictor.py is the CNN
 
-- Generic Dataloader is the pytorch dataloader that uses repeated iterators with skipping (See code)
+- GenericDataloader.py is the pytorch dataloader that uses repeated iterators with skipping (See code)
 
-- MLP Poly Predictor is the MLP 
+- MLPPolyPredictor.py is the MLP 
 
-- Polygon factory generates the training and testing images, which are polygons of random radius, random number of sides from, and of a certain resolution\
+- PolygonFactory.py generates the training and testing images, which are polygons of random radius, random number of sides from, and of a certain resolution
 
 - The testing images of resolutions 300/600 
 
