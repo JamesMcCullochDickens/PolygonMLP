@@ -21,6 +21,7 @@ Here is a sample polygon of image resolution 300 x 300
 The best results so far are:
 
 600 x 600:
+
 CNN: 
 
 The model accuracy for predicting the number of sides is 0.99
