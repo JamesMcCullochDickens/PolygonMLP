@@ -35,7 +35,7 @@ The model accuracy for predicting the number of sides is 0.69
 The root mean-squared error for area predictions is 24605.5
 
 
-300 x 300
+**300 x 300**
 
 CNN: 
 
