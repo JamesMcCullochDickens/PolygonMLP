@@ -21,20 +21,28 @@ Here is a sample polygon of image resolution 300 x 300
 The best results so far are:
 
 600 x 600:
+CNN: 
+
 The model accuracy for predicting the number of sides is 0.99
 
 The root mean-squared error for area predictions is 10101.08
 
-MLP
+MLP:
+
 The model accuracy for predicting the number of sides is 0.69
 
 The root mean-squared error for area predictions is 24605.5
 
 
 300 x 300
+
+CNN: 
+
 The model accuracy for predicting the number of sides is 0.9
 
 The root mean-squared error for area predictions is 4460.8
+
+MLP:
 
 The model accuracy for predicting the number of sides is 0.99
 
