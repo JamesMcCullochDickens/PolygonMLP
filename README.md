@@ -20,7 +20,7 @@ Here is a sample polygon of image resolution 300 x 300
 
 The best results so far are:
 
-600 x 600:
+**600 x 600:**
 
 CNN: 
 
