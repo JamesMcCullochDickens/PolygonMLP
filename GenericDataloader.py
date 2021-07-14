@@ -17,7 +17,7 @@ class SkipIterableDataset(torch.utils.data.IterableDataset):
             return self.iterator(start_value, skip_value, self.bs, *self.args)
 
 
-# return True if you are not skipping, False otherwise2
+# return True if you are not skipping, False otherwise
 def skipFunction(current_index, start_value, batch_size, skip_value):
     if start_value is None:
         return True
